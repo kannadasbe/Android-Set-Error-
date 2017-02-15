@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android SetError Example</string>
+    <string name="error_username">Username is mandatory</string>
+    <string name="error_password">Password is mandatory</string>
+    <string name="success_message">Fields are validated</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="validate">Validate</string>
+    <string name="www_crazygeeksblog_com">www.crazygeeksblog.com</string>
+</resources>
